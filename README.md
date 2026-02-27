@@ -9,6 +9,7 @@ something something
 ### WHITE BOY OF THE YEAR
 <ul>
         <li> IntelliJ IDEA </li>
+        <li> Java Back end </li>
 </ul>
 
 <img 
