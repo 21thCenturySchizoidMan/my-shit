@@ -4,7 +4,7 @@ something something
 
 **`aprendendo a programar`**
 
-##'Estou estudando JavaScript eu ainda estou muito perdido, MAAAAAASSS... eu tô me esforçando o maxímo pra entender essas coisas todas de programação, e espero conseguir tirar algo bom disso tudo, e se eu conseguir aprender a programar quero poder criar algo que eu sempre quis fazer, um jogo no roblox, eu sei que é meio besta mas é o meu sonho'
+##' Estou estudando JavaScript eu ainda estou muito perdido, MAAAAAASSS... eu tô me esforçando o maxímo pra entender essas coisas todas de programação, e espero conseguir tirar algo bom disso tudo, e se eu conseguir aprender a programar quero poder criar algo que eu sempre quis fazer, um jogo no roblox, eu sei que é meio besta mas é o meu sonho'
 
 ### WHITE BOY OF THE YEAR
 <ul>
