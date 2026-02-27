@@ -1,12 +1,12 @@
 something something
 
-# Prof Gustavo
+# SCHIZO1D_420
 
-**`DESENVOLVEDOR DE JOGOS`**
+**`aprendendo a programar`**
 
-##'Estou estudando Unity e esse é meu portfolio'
+##'Estou estudando JavaScript eu ainda estou muito perdido'
 
-### 🎅🏿 Linguagens e Tecnologias
+### WHITE BOY OF THE YEAR
 <ul>
         <li> UNITY </li>
 </ul>
