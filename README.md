@@ -8,11 +8,8 @@ something something
 
 ### WHITE BOY OF THE YEAR
 <ul>
-        <li> UNITY </li>
+        <li> IntelliJ IDEA </li>
 </ul>
-
-itch.io : https://rlgustavo.itch.io/
-
 
 <img 
     align="left" 
